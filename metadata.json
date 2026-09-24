@@ -1,0 +1,6 @@
+{
+  "name": "LexiQuest: Story & Spelling Adventure",
+  "description": "An interactive storytelling, vocabulary, and spelling learning adventure for young explorers with British and American English practice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
